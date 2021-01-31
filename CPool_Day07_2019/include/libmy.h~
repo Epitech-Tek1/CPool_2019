@@ -1,0 +1,3 @@
+void my_putchar(char c);
+
+int my_putstr(int nb);
